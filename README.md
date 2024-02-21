@@ -28,8 +28,8 @@ Anaconda - Python 3.7
 
 ## PROGRAM:
 
-**Developed By:** BAirav Skandan Loha <br>
-**Register Number:** 212221230010
+**Developed By:** Easwar J <br>
+**Register Number:** 212221230024
 
 <table>
   <tr>
